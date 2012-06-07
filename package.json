@@ -1,0 +1,22 @@
+{
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "name": "voxer-blog-demo",
+  "description": "A demo blog written live at Voxer HQ so it probably isn't great.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/voxer-blog-demo.git"
+  },
+  "dependencies": {
+    "error-page": "0.0.3",
+    "routes": "~0.1.1",
+    "templar": "0.0.6",
+    "ejs": "~0.7.1",
+    "marked": "~0.2.5"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
