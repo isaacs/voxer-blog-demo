@@ -2,7 +2,7 @@
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
   "name": "voxer-blog-demo",
   "description": "A demo blog written live at Voxer HQ so it probably isn't great.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/isaacs/voxer-blog-demo.git"
