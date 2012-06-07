@@ -1,0 +1,10 @@
+<!doctype html><html>
+<head><title><%= title %></title>
+
+<ul>
+  <% posts.forEach(function (post) {
+    %>
+    <li><%- include('post-partial.ejs', post) %></li>
+    <%
+  }) %>
+</ul>
